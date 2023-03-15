@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea u5 arreglo", "tarea u5 arreglo.csproj", "{6581302A-CADD-4C49-8CCE-155473BA015F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6581302A-CADD-4C49-8CCE-155473BA015F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6581302A-CADD-4C49-8CCE-155473BA015F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6581302A-CADD-4C49-8CCE-155473BA015F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6581302A-CADD-4C49-8CCE-155473BA015F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CF7208F-A96A-4623-985E-D7DC6C054E56}
+	EndGlobalSection
+EndGlobal
